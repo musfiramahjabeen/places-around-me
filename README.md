@@ -1,9 +1,7 @@
 # Places Around Me
 ## AIM:
 To develop a website to display details about the places around my house.
-
 ## Design Steps:
-
 ### Step 1:
 Fork the repository to your github and clone it into a folder in github
 ### Step 2:
@@ -165,7 +163,6 @@ you experience true variety in fashion. Say goodbye to your old wardrobe and emb
 </body>
 </html>
 ```
-
 ## Output:
 #### map.html
 ![Screenshot from 2023-12-24 16-54-05](https://github.com/SaravananPV3010/places-around-me/assets/139754526/95fd0175-90bb-4363-b193-d31d8358f4fa)
